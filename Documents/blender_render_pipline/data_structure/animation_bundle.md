@@ -73,5 +73,5 @@ Mỗi phần tử trong `frames` tương ứng với một frame trong animation
 
 ## 📎 Tài liệu liên quan
 
-- [ERD sơ đồ quan hệ animation_bundle.drawio](../data_structure/animation_bundle_erd_with_zindex_uniform.drawio.xml)
+- [ERD sơ đồ quan hệ animation_bundle.drawio](../data_structure/animation_bundle.erd.drawio.xml)
 - [Tool: make_animation_bundle.py](../tools/make_animation_bundle.md)
